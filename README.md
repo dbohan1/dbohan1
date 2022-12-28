@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbohan1
 - 👀 I’m interested in board games, D&D, and books
-- 🌱 I’m currently learning AWS for Solutions Architect
+- 🌱 I’m currently learning AWS for Solutions Architects
 - 💞️ I’m looking to collaborate on all Community related projects
 - 📫 How to reach me Slack / Teams
 
