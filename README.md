@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Bohan
 - 👀 I’m interested in board games, D&D, and books
-- 🌱 I’m currently learning AWS for Solutions Architects
+- 🌱 I’m currently learning AWS and Web Platform stuff
 - 💞️ I’m looking to collaborate on all Community related projects
 - 📫 How to reach me Slack / Teams
 
