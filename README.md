@@ -1,8 +1,8 @@
 - 👋 Hi, I’m David Bohan
-- 👀 I’m interested in board games, D&D, and fantasy books
-- 🌱 I’m currently learning AWS and Web Platform stuff
+- 👀 I’m interested in board games, D&D, music and books
+- 🌱 I’m currently learning about a possible intersection between Playwright and TDD
 - 💞️ I’m looking to collaborate on all Community related projects
-- 📫 How to reach me Slack / Teams
+- 📫 How to reach me: Slack / Teams
 
 <!---
 dbohan1/dbohan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
