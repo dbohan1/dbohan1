@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Bohan
 - 👀 I’m interested in board games, D&D, music and books
-- 🌱 I’m currently learning about a possible intersection between Playwright and TDD
-- 💞️ I’m looking to collaborate on all Community related projects
+- 🌱 I’m currently learning about all things Talent/Recruiting
+- 💞️ I’m looking to collaborate on all Recruiting related projects
 - 📫 How to reach me: Slack / Teams
 
 <!---
